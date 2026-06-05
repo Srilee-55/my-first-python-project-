@@ -1,13 +1,19 @@
-# my-first-python-project-
-My first python project on this platform
+Welcome to my first GitHub repository.
 
-## Features
+## About
 
-- Hello World Program
-- Calculator Program
+This project contains simple Python programs for learning GitHub.
+
+## Files
+
+- hello.py
+- calculator.py
+
+## Technologies
+
+- Python
+- GitHub
 
 ## Author
 
-Srilekhaa
-## Features
-
+Sriiiii
